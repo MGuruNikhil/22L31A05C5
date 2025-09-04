@@ -1,0 +1,1 @@
+export declare const TEST_SERVER_BASE = "http://20.244.56.144/evaluation-service";
